@@ -8,7 +8,7 @@ class Apartment:
         self.pet_friendly = pet_friendly
         self.tenant = None
 
-    def show_available_apts(apartments):
+    def show_available_apts(apartme):
         available_apts = [apt for apt in apartments if apt.is_available]
         return "\n".join(
             f"Address: {apt.address}, Bedrooms: {apt.num_rooms}, Price: {apt.rent_price}, Pet Friendly: {apt.pet_friendly}"
