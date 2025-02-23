@@ -1,0 +1,46 @@
+[
+    {
+        "address": "123 Main St",
+        "num_rooms": 2,
+        "rent_price": 1200,
+        "pet_friendly": true,
+        "is_available": false,
+        "tenant": {
+            "first_name": "juvenson",
+            "last_name": "lazarre",
+            "address": "123 Main St"
+        }
+    },
+    {
+        "address": "456 Elm St",
+        "num_rooms": 3,
+        "rent_price": 1500,
+        "pet_friendly": true,
+        "is_available": true,
+        "tenant": null
+    },
+    {
+        "address": "789 Oak St",
+        "num_rooms": 1,
+        "rent_price": 800,
+        "pet_friendly": true,
+        "is_available": true,
+        "tenant": null
+    },
+    {
+        "address": "101 Pine St",
+        "num_rooms": 2,
+        "rent_price": 1100,
+        "pet_friendly": true,
+        "is_available": true,
+        "tenant": null
+    },
+    {
+        "address": "202 Maple St",
+        "num_rooms": 3,
+        "rent_price": 1600,
+        "pet_friendly": true,
+        "is_available": true,
+        "tenant": null
+    }
+]
